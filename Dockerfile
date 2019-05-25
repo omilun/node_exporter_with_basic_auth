@@ -23,6 +23,6 @@ RUN chmod +x /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
 
-EXPOSE 9180
+EXPOSE 9100
 
 USER 1001
